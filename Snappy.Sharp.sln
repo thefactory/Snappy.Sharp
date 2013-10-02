@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snappy.Sharp.Test", "Snappy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snappy.Performance", "Snappy.Performance\Snappy.Performance.csproj", "{1AEE7F12-AFA7-45B1-BBE8-A56AA4B3F9A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snappy.Sharp.iOS", "Snappy.Sharp.iOS\Snappy.Sharp.iOS.csproj", "{379A46BA-1EBB-4BD0-BEB5-B850F174E0D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,22 @@ Global
 		{1AEE7F12-AFA7-45B1-BBE8-A56AA4B3F9A1}.Release|x64.Build.0 = Release|x64
 		{1AEE7F12-AFA7-45B1-BBE8-A56AA4B3F9A1}.Release|x86.ActiveCfg = Release|x86
 		{1AEE7F12-AFA7-45B1-BBE8-A56AA4B3F9A1}.Release|x86.Build.0 = Release|x86
+		{379A46BA-1EBB-4BD0-BEB5-B850F174E0D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{379A46BA-1EBB-4BD0-BEB5-B850F174E0D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{379A46BA-1EBB-4BD0-BEB5-B850F174E0D8}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{379A46BA-1EBB-4BD0-BEB5-B850F174E0D8}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{379A46BA-1EBB-4BD0-BEB5-B850F174E0D8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{379A46BA-1EBB-4BD0-BEB5-B850F174E0D8}.Debug|x64.Build.0 = Debug|Any CPU
+		{379A46BA-1EBB-4BD0-BEB5-B850F174E0D8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{379A46BA-1EBB-4BD0-BEB5-B850F174E0D8}.Debug|x86.Build.0 = Debug|Any CPU
+		{379A46BA-1EBB-4BD0-BEB5-B850F174E0D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{379A46BA-1EBB-4BD0-BEB5-B850F174E0D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{379A46BA-1EBB-4BD0-BEB5-B850F174E0D8}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{379A46BA-1EBB-4BD0-BEB5-B850F174E0D8}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{379A46BA-1EBB-4BD0-BEB5-B850F174E0D8}.Release|x64.ActiveCfg = Release|Any CPU
+		{379A46BA-1EBB-4BD0-BEB5-B850F174E0D8}.Release|x64.Build.0 = Release|Any CPU
+		{379A46BA-1EBB-4BD0-BEB5-B850F174E0D8}.Release|x86.ActiveCfg = Release|Any CPU
+		{379A46BA-1EBB-4BD0-BEB5-B850F174E0D8}.Release|x86.Build.0 = Release|Any CPU
 		{3DE0FF31-8A1D-4485-B725-D120CD91D205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3DE0FF31-8A1D-4485-B725-D120CD91D205}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DE0FF31-8A1D-4485-B725-D120CD91D205}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
